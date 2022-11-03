@@ -124,6 +124,12 @@ button:hover{
     transition: .3s;
     cursor: pointer;
 }
+.content cv p{
+    margin: 5px;
+    text-decoration: solid;
+    color: red;
+    font-weight: bold;
+}
 .social{
     position: absolute;
     left: 92%;
